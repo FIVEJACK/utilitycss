@@ -1,0 +1,9 @@
+{
+  "name": "utilitycss",
+  "version": "0.0.1",
+  "description": "Utility CSS for react native, will implement Tailwind CSS",
+  "main": "index.js",
+  "repository": "https://github.com/FIVEJACK/utilitycss.git",
+  "author": "Rionardo <rio@fivejack.com>",
+  "license": "MIT"
+}
